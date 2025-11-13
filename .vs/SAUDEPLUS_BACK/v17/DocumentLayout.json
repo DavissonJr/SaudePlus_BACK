@@ -1,0 +1,83 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|c:\\users\\davis\\onedrive\\desktop\\projetos programacao\\saudeplus_be\\saudeplus_back\\saudeplus_back\\domain\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|solutionrelative:saudeplus_back\\domain\\agendamento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|c:\\users\\davis\\onedrive\\desktop\\projetos programacao\\saudeplus_be\\saudeplus_back\\saudeplus_back\\domain\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|solutionrelative:saudeplus_back\\domain\\tipoconsulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|c:\\users\\davis\\onedrive\\desktop\\projetos programacao\\saudeplus_be\\saudeplus_back\\saudeplus_back\\saudeplus_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DD32B3E1-9BCB-4493-9DB2-0E5665B23A02}|SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj|solutionrelative:saudeplus_back\\saudeplus_back.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TipoConsulta.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\Domain\\TipoConsulta.cs",
+              "RelativeDocumentMoniker": "SAUDEPLUS_BACK\\Domain\\TipoConsulta.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\Domain\\TipoConsulta.cs",
+              "RelativeToolTip": "SAUDEPLUS_BACK\\Domain\\TipoConsulta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:47:44.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Agendamento.cs",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\Domain\\Agendamento.cs",
+              "RelativeDocumentMoniker": "SAUDEPLUS_BACK\\Domain\\Agendamento.cs",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\Domain\\Agendamento.cs",
+              "RelativeToolTip": "SAUDEPLUS_BACK\\Domain\\Agendamento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T16:47:02.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SAUDEPLUS_BACK",
+              "DocumentMoniker": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj",
+              "RelativeDocumentMoniker": "SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj",
+              "ToolTip": "C:\\Users\\davis\\OneDrive\\Desktop\\Projetos Programacao\\SaudePlus_BE\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj",
+              "RelativeToolTip": "SAUDEPLUS_BACK\\SAUDEPLUS_BACK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-13T16:43:44.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
